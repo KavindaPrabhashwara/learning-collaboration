@@ -79,3 +79,7 @@ Many people would suggest creating a Learning Management System ( LMS)  to addre
 >- Any person whether registered or not can view items in forum. 
 >- However, inorder to put questions or to post comments they have to logged in to the system.
 >- There are threads for each subject that is currently there in the Auaha system.
+
+
+### Special Thanks
+> Ansonika - Udema Modern Educational Template
